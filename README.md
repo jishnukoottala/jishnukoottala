@@ -6,6 +6,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white)](https://shields.io/)
 [![Javascript](https://img.shields.io/badge/-javascript-000?logo=javascript&logoColor=yellow)](https://shields.io/)
 [![GraphQL](https://img.shields.io/badge/-GraphQl-E10098?logo=graphql&logoColor=white)](https://shields.io/)
+[![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white)](https://shields.io/)
 [![GithubActions](https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white)](https://shields.io/)
 <!--
 **jishnukoottala/jishnukoottala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
